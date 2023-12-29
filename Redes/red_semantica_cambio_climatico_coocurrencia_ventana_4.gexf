@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-12-03">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="artificial" label="artificial" />
+      <node id="form" label="form" />
+      <node id="llen" label="llen" />
+      <node id="papel" label="papel" />
+      <node id="aspect" label="aspect" />
+      <node id="avanc" label="avanc" />
+      <node id="avanz" label="avanz" />
+      <node id="cad" label="cad" />
+      <node id="inteligent" label="inteligent" />
+      <node id="desempeñ" label="desempeñ" />
+      <node id="divers" label="divers" />
+      <node id="destin" label="destin" />
+      <node id="fundamental" label="fundamental" />
+      <node id="digitaliz" label="digitaliz" />
+      <node id="emocion" label="emocion" />
+      <node id="med" label="med" />
+      <node id="esper" label="esper" />
+      <node id="interes" label="interes" />
+      <node id="vid" label="vid" />
+      <node id="futur" label="futur" />
+      <node id="tem" label="tem" />
+      <node id="haci" label="haci" />
+      <node id="vez" label="vez" />
+      <node id="transform" label="transform" />
+      <node id="socied" label="socied" />
+      <node id="posibil" label="posibil" />
+      <node id="promet" label="promet" />
+      <node id="viv" label="viv" />
+    </nodes>
+    <edges>
+      <edge source="artificial" target="form" id="0" weight="1.0" />
+      <edge source="artificial" target="llen" id="1" weight="1.0" />
+      <edge source="artificial" target="papel" id="2" weight="1.0" />
+      <edge source="form" target="interes" id="3" weight="1.0" />
+      <edge source="avanz" target="cad" id="4" weight="1.0" />
+      <edge source="cad" target="inteligent" id="5" weight="1.0" />
+      <edge source="inteligent" target="divers" id="6" weight="1.0" />
+      <edge source="inteligent" target="transform" id="7" weight="1.0" />
+      <edge source="desempeñ" target="divers" id="8" weight="1.0" />
+      <edge source="destin" target="fundamental" id="9" weight="1.0" />
+      <edge source="fundamental" target="vid" id="10" weight="1.0" />
+      <edge source="emocion" target="med" id="11" weight="1.0" />
+      <edge source="med" target="socied" id="12" weight="1.0" />
+      <edge source="futur" target="tem" id="13" weight="1.0" />
+      <edge source="haci" target="vez" id="14" weight="1.0" />
+      <edge source="promet" target="viv" id="15" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
